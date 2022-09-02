@@ -1,46 +1,40 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A falta de mão de obra qualificada assombra todos os setores do mercado, dificultando a contratação de bons profissionais. Essa falta sempre existiu, mas com a pandemia do Covid-19, esse quadro cresceu bastante. 
+
+Acontece que agora com a volta dos trabalhos presencialmente muitas pessoas ficaram sem tempo para fazer a própria faxina de sua casa. 
+
+A realidade brasileira tem reflexos em muitos setores. Um deles, facilmente observado, é o dos serviços domésticos. Com a diminuição da oferta, ou pelo menos da oferta na forma como era conhecida, os profissionais também foram se modificando, encontrar esses profissionais têm se tornado uma tarefa cada vez mais difícil.
+
+Apesar das modificações nesse setor, as faxineiras domésticas ainda têm um peso forte no mercado e na economia. “As faxineiras domésticas representavam 9% de toda a mão de obra e esse volume reduziu para 8,5%”, diz. O economista lembra que a profissão é uma importante porta para o mercado profissional. “Principalmente as mulheres (em torno de 92%), encontram no serviço doméstico, a possibilidade de começar a vida profissional”, afirma Ediran Teixeira (PED) .
+
+Diante disso, torna-se fundamental que existam meios de divulgação e mecanismos que permitam ao usuário encontrar esses profissionais sem vieses que dificultem a sua busca tornando-a de maneira adequada e simplificada diante das possibilidades que a tecnologia nos proporciona.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Buscando facilitar a forma como se faz busca de vagas de emprego, mais especificamente faxineiras autônomas, a aplicação garante a facilidade para esses profissionais desde o momento do cadastro, até concretizar a contratação. A aplicação busca satisfazer tanto o contratante quanto o contratado através de dados que facilitam e adiantam boa parte da negociação com registros de dados, avaliações, habilidades, entre outros.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é a criação de uma aplicação que apresente ferramentas de fácil uso e que permita o acesso a um universo de pessoas que buscam/prestam esse tipo de serviço.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos ressaltar:
+
+> - Fornecer funcionalidades que permitam interagir com as pessoas podendo visualizar seus dados profissionais e habilidades;
+> - Colocar em prática um sistema que não necessite de um diálogo a princípio devido às informações do profissional na plataforma.
+> - Inserir todos trabalhadores em seus determinados mercados através do mundo digital.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+“A pandemia de coronavírus agravou a situação econômica de muitos brasileiros. Com o aumento da taxa de desemprego e a perda de renda das famílias, a saída para muitos trabalhadores foi empreender. Dados do Portal do Empreendedor mostram que houve um crescimento de 13,23% entre março e dezembro de 2020.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
+Em março, com o início das medidas de restrição impostas pela pandemia, o Brasil contava com 9,8 milhões de MEIs ( microempreendedores individuais) ativos, chegando a mais de 11,3 milhões de microempreendedores registrados em dezembro do mesmo ano.”
 > **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> - [fonte:](https://www.lavras24horas.com.br/)
+
+Adicionalmente, há uma falta de canais de divulgação e objetivos que permitam aos usuários, prestadores e contratantes de serviços especializados divulgarem ou contratarem serviços  em ferramentas digitais. 
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Embora todas as pessoas possam se beneficiar de soluções isentas para se informarem, o foco deste trabalho está no público que busca encontrar faxineiras próximas de suas residências para uma limpeza semanal, diária ou esporádica em casos de viagens, férias ou situações específicas. E também as pessoas que trabalham nesta área de atuação e tem dificuldades para divulgar seu trabalho em busca de  oportunidades e que fazem uso frequente de computadores e dispositivos móveis para se atualizarem.
