@@ -7,45 +7,57 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 As Personas do projeto foram construídas a partir de entrevistas individuais, suas histórias têm envolvimento tanto direto como indiretamente com o tema proposto para construção desse trabalho. Com as informações coletadas poderemos ter uma diversidade de visões no qual nos permitirá entender melhor cada usuário. Abaixo iremos relatar a história das pessoas entrevistadas.
 
 **Leila Rodrigues**
-<br>
-![Leila Rodrigues](https://user-images.githubusercontent.com/103081069/188247371-69036cf3-d449-4e79-ba13-0ea2e9710a78.jpeg) 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/103081069/188247371-69036cf3-d449-4e79-ba13-0ea2e9710a78.jpeg" width="200px" />
+</div>
+
 | Idade    | Ocupação  | Participação    | Divulgação de faxinas | Dificuldades | História |  
 |:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
 |42 anos | Auxiliar de serviços gerais.| Nas horas vagas divulga o interesse de fazer faxinas para pessoas próximas. | Sempre que tenho oportunidade e quando vejo alguém na busca por limpeza eu me ofereço e espalho para pessoas ao meu redor que faço faxinas.| Em divulgar faxinas, saber qual o tamanho do local que será feita a limpeza.| Às vezes não entendem que não dá para fazer tudo em apenas um dia.|
 
 
 **Maria Teresa**
-<br>
-![Maria Teresa](https://user-images.githubusercontent.com/103081069/188247598-4753c8b8-150c-4be9-892e-2f7865af4647.jpeg) 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/103081069/188247598-4753c8b8-150c-4be9-892e-2f7865af4647.jpeg" width="200px" />
+</div>
+
 | Idade    | Ocupação  | Participação    | A busca por faxineiras confiáveis | Dificuldades | História |  
 |:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
 |43 anos | Faxineira/Diarista.| Busca por casas para trabalhar com faxina . |Trabalho no máximo 2 dias da semana em cada casa, logo preciso ocupar mais o meu tempo para conseguir aumentar minha renda.| Encontrar pessoas que precisem de faxineira e char pessoas na minha região que precisem dos meus serviços.| Hora ou outra acabo aceitando empregos distantes porque não consigo encontrar pessoas próximas de minha casa que precisem dos meus serviços.|
 
 
 **José Alencar**
-<br>
-![José Alencar](https://user-images.githubusercontent.com/103081069/188247764-837c6d1b-e972-4afa-ad12-ac1ade40ee62.jpeg) 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/103081069/188247764-837c6d1b-e972-4afa-ad12-ac1ade40ee62.jpeg" width="200px" />
+</div>
+
 | Idade    | Ocupação  | Participação    | Motivações | Dificuldades | História |  
 |:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
 |67 anos | Zelador.| Procuro alguém para realizar faxina em minha residência. | Conseguir uma pessoa para realizar uma faxina de qualidade na qual não consigo, devido meu problema de coluna.| Encontrar uma pessoa de confiança para realizar este serviço.| Trabalhou durante muitos anos em uma empresa de ferro, onde adquiriu com o passar do tempo um problema de visão que vai se agravando é o seu  problema de coluna.|
 
 **Caio Murdock**
-<br>
-![Caio Murdock](https://user-images.githubusercontent.com/103081069/188248091-b5ae60ef-814d-4380-87a9-7197316cd8b2.jpeg) 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/103081069/188248091-b5ae60ef-814d-4380-87a9-7197316cd8b2.jpeg" width="200px" />
+</div>
+
 | Idade    | Ocupação  | Participação    | Motivações | Dificuldades | História |  
 |:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
 |49 anos | Advogado.| Sou cadeirante e tenho dificuldades em limpar minha casa. | Busco uma pessoa que possa me auxiliar na faxina da minha casa.| Encontrar uma pessoa de confiança. |Formou-se em direito aos 20 anos. Aos 8 sofreu um acidente de carro no qual ficou paralítico.|
 
 **Maurício Varella**
-<br>
-![Maurício Varella](https://user-images.githubusercontent.com/103081069/188248387-c90e7c90-fc5e-4d72-90b3-457c2e0df417.png) 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/103081069/188248387-c90e7c90-fc5e-4d72-90b3-457c2e0df417.png" width="200px" />
+</div>
+
 | Idade    | Ocupação  | Participação    | Motivações | Dificuldades | História |  
 |:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
 |30 anos | Streamer.| Nas horas vagas divulga o interesse de fazer serviços de faxina. | Tenho como objetivo aumentar meu patrimônio. | Tenho dificuldade de encontrar uma aplicação que me ajude a divulgar meu serviço. | Estou à procura de fazer bicos para aumentar a renda mensal.|
 
 **Tierri Lancastre**
-<br>
-![Tierri Lancastre](https://user-images.githubusercontent.com/103081069/188248480-28306035-193e-46a6-be80-77212144a877.png) 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/103081069/188248480-28306035-193e-46a6-be80-77212144a877.png" width="200px" />
+</div>
+
 | Idade    | Ocupação  | Participação    | Motivações | Dificuldades | História |  
 |:---------------|:------------------|:---------------------|:-----------------|:-----------------|:------------------------|
 |50 anos | Analista de desenvolvimento de sistemas.| Sou cadeirante e estou em busca por faxineiros(as) confiáveis. | Tenho medo de contratar faxineiras sem indicação, não tenho condições de limpar a casa, preciso de alguém que seja confiável.| Encontrar faxineiros(as) em que possa confiar próximos de mim. |Tenho dificuldade de limpar minha casa por ter deficiência física.|
