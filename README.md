@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# MINHA FAXINA
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`2º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral deste trabalho é a criação de uma aplicação que apresente ferramentas de fácil uso e que permita o acesso a um universo de pessoas que buscam/prestam esse tipo de serviço.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Guilherme Henrique Monteiro Cal
+* Jéssica Silva Santos
+* Luis Othavio Santos da Silva
+* Pedro Henrique Caetano Soares
+* Rafael Alves de Souza
+* Warlen do Carmo Alves
 
 ## Orientador
 
-* Nome completo do professor 1
+* José Wilson Da Costa
+
 
 ## Instruções de utilização
 
