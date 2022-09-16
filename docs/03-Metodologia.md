@@ -12,7 +12,7 @@ AMBIENTE| PLATAFORMA |LINK DE ACESSO             |
 |Repositório de código fonte| GitHub | [Link](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t2-minha-faxina) | 
 |Documentos do projeto| Google Drive | [Link](https://docs.google.com/document/d/1Ofpl4cU5876LMQqdCAMqalOtCMKISsWr/edit#) | 
 |Projeto de Interface e  Wireframes| MarvelApp | [Link](https://marvelapp.com/4hd6091) | 
-|Gerenciamento do Projeto | Trello | [Link](https://marvelapp.com/4hd6091) | 
+|Gerenciamento do Projeto | Trello | [Link](https://trello.com/b/17FjW6pH/minha-faxina?filter=label:none,label:green,label:yellow,label:orange,label:red,label:purple,label:blue) | 
 
 ## Gestão de código fonte
 
@@ -55,7 +55,7 @@ Figura 2 - Tela do kanban utilizada pelo grupo
 
 A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores:
 
-div>
+
 <img src="https://user-images.githubusercontent.com/103081069/188251053-5cca07a7-138b-40e5-97f4-cab3bd4a3689.png" width="300px" />
 </div>
 
