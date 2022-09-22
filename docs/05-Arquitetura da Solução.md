@@ -5,8 +5,9 @@
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
 ## Diagrama de Classes
-
-<img scr="https://user-images.githubusercontent.com/103080396/191384345-d9f92dab-910b-447b-8865-76b0e3f9a8b2.jpg" />
+<div align="left">
+<img src="https://user-images.githubusercontent.com/103080396/191384345-d9f92dab-910b-447b-8865-76b0e3f9a8b2.jpg" width="200px" />
+</div>
 
 ## Modelo ER (Projeto Conceitual)
 
