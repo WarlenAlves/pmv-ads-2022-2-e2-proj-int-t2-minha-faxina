@@ -36,6 +36,7 @@ Planejamento de realização de testes com usuários definindo as operações qu
 A baixo vamos decrever a jornada do usuário em formato de teste para explicar melhor sobre o plano de testes que foram excutados.
 
 ` Imagem 01` 
+
 Representação da jornada do usuário sobre a aplicação
 
 <div align="center">
@@ -47,6 +48,7 @@ Cada linha de cores representa um usuário diferente e sua jornada dentro da apl
 
 
 ` Imagem 02` 
+
 Representação do mapa de calor
 
 <div align="center">
