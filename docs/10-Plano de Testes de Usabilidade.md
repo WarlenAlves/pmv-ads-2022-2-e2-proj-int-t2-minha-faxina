@@ -34,6 +34,7 @@ Planejamento de realização de testes com usuários definindo as operações qu
 
 
 A baixo vamos decrever a jornada do usuário em formato de teste para explicar melhor sobre o plano de testes que foram excutados.
+
 Para mais informações segue link para teste completo de usabilidade: [Link](https://quant-ux.com/#/test.html?h=a2aa10a3OayRMnpDLw5lQd0vc2HGeQ1zDpQnyRK1K3Dp4a1briZs5iDDyVf6)
 
 ` Imagem 01` 
