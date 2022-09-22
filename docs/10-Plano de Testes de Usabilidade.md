@@ -39,7 +39,7 @@ A baixo vamos decrever a jornada do usúario em formato de teste para explicar m
 
 
 <div align="center">
-<img src="![Heatmap](https://user-images.githubusercontent.com/101758971/191642435-2a19f6f2-ccd1-4e7c-b21d-03ec196f74a7.jpg)" width="1000px" />
+<img src="https://user-images.githubusercontent.com/101758971/191642435-2a19f6f2-ccd1-4e7c-b21d-03ec196f74a7.jpg" width="1000px" />
 </div>>
 
 
@@ -49,7 +49,7 @@ Cada linha de cores representa um usúario diferente e sua jornada dentro da apl
 2-imagem ( Representação do mapa de calor)
 
 <div align="center">
-<img src="![Journey](https://user-images.githubusercontent.com/101758971/191642583-63983ae4-1dd2-4267-82aa-58cc266ca1df.jpg)" width="1000px" />
+<img src="https://user-images.githubusercontent.com/101758971/191642583-63983ae4-1dd2-4267-82aa-58cc266ca1df.jpg" width="1000px" />
 </div>
 
 
