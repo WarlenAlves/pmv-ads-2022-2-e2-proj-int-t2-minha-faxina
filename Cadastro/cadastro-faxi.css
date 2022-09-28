@@ -1,3 +1,4 @@
+
 p1{
     font-size: 60px;
     font-weight: 900;
@@ -57,4 +58,14 @@ p1, p2, p3{
 }
 .idade, .numero{
     width: 60px;
+}
+
+footer{
+    padding: 5%;
+    text-align: center;
+}
+
+footer>a{
+    text-decoration: none;
+    color: black;
 }
