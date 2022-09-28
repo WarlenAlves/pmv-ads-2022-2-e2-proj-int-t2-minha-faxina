@@ -17,7 +17,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Projeto da Base de Dados
 
-![modelo Lógico](https://user-images.githubusercontent.com/101114385/192075349-e81319b1-69ed-49ae-9dfe-fef61b18759d.png)
+![Lógico_1](https://user-images.githubusercontent.com/101114385/192777239-d00edc8f-ece6-4d70-8c36-f30c2cec4e2e.png)
 
 
 ## Tecnologias Utilizadas
