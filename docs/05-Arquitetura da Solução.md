@@ -4,6 +4,11 @@
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
+## Diagrama de Fluxo
+<div align="left">
+<img src="https://user-images.githubusercontent.com/103080396/193426948-8df01c71-70eb-4877-856b-a2e7ba348dc2.jpeg" width="1000px" />
+</div>
+
 ## Diagrama de Classes
 <div align="left">
 <img src="https://user-images.githubusercontent.com/103080396/191384345-d9f92dab-910b-447b-8865-76b0e3f9a8b2.jpg" width="1000px" />
