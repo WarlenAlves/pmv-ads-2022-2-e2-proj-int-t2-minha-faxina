@@ -1,35 +1,33 @@
 # Plano de Testes de Usabilidade
 
+# Objetivo: 
+
+Avaliar a qualidade da navegação, a eficiência do processo de contratação de serviços e a satisfação do usuário ao realizar determinados processos.
+
+# Método: 
+
+Busca-se a descoberta de problemas na experiência do usuário, para tal avaliação usaremos testes remotos moderados de usabilidade. 
+
+# Cenário: 
+
 Planejamento de realização de testes com usuários definindo as operações que os usuários devem realizar.
 |Caso de Teste | 01 - Responsividade|
 |:--|:--|
-|**Objetivo do teste**|Os usuários deveram acessar a página via computador  e também via telefone móvel.| 
+|**casos de teste**|A aplicacao deverá ser adequada aos usuarios conforme o objetivo desse projeto.| 
 |**Passos**|1 - Acesse o site via computador.<br/>2 - Acesse o site via telefone móvel<br/>|
-|**Critérios de Êxito**|O Conteúdo deve ser responvivo e sem cortes.|
+|**Objetivo do teste**|O Conteúdo deve ser responvivo e sem cortes.|
 
-|Caso de Teste | 02 - Realizar Cadastro |
+|Caso de Teste | 02 - Adequação |
 |:--|:--|
-|**Objetivo do teste**| O usuário deverá se cadastrar para entrar na aplicação e ter acesso a demais informações.|
-|**Passos**|1 - Entrar na plataforma.<br/>2 - Clicar em Log-In.<br/>3 - terá acesso a aplicação com seu usuario.|
-|**Critérios de Êxito**|Cadastrar o usuario e armazenar suas informações.|
+|**casos de teste**|A aplicacao deverá ser adequada aos usuarios conforme o objetivo desse projeto.|
+|**Passos**| 1- Apropriado a usuarios que desejam contratar ou se canditar ao Minha Faxina|
+|**Objetivo do teste**|Adequação bem executada entre as telas exibidas|
 
-|Caso de Teste | 03 - Telas direcionaveis|
+|Caso de Teste | 03- Eficiência |
 |:--|:--|
-|**Objetivo do teste**|Verificar o redirencionamento das telas disponíveis no site.|
-|**Passos**|1 - Acessar a aplicação.<br/>2 - Clicar sobre o contéudo disponivel.</br> 3 - Ser redirecionado para uma página.
-|**Critérios de Êxito**|Ser redirecionado automaticamente ao clicar em um contéudo incluso.|
-
-|Caso de Teste | 04 - Casas para trabalhar|
-|:--|:--|
-|**Objetivo do teste**|A faxineira(o) deverá localizar uma casa mais proxima ou de sua preferência para efetuar a faxina.|
-|**Passos**|1 - A escolha da limpeza.<br/>2 - Entrar em contato com o contratante.<br/>3 - Abre o chat.|
-|**Critérios de Êxito**|Processo de contratação e concluido.|
-
-|Caso de Teste | 05 - Faxineiras(o)|
-|:--|:--|
-|**Objetivo do teste**|O contratante deverá entrar em contato com a faxineira(o) de sua preferência.|
-|**Passos**|1 - A escolha da faxineira (o).<br/>2 - Entrar em contato.<br/>3 - Abre o chat.|
-|**Critérios de Êxito**|Processo de contratação e concluido.|
+**casos de teste**|Medida do tempo (ou contagem de cliques ou page views) para realizar tarefas realistas.|
+|**Passos**Deve-se usar versões do software que estejam funcionando e uma amostra de dados plausível.|
+|**Objetivo do teste**|Ser redirecionado automaticamente ao clicar em um contéudo incluso.|
 
 
 
