@@ -1,7 +1,7 @@
 <?php
 $servidor = 'localhost';
 $usuario = 'root';
-$senha = '@Rosimary8971';
+$senha = '';
 $dbname = 'cadastro';
 
 //criar conexao
