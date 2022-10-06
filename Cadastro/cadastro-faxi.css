@@ -1,10 +1,24 @@
-
 p1{
     font-size: 60px;
     font-weight: 900;
     display: block;
     text-align: center;
     margin-top: 30px;
+}
+
+#back-button{
+    margin-right: 10%;
+    background-color: white;
+    border: solid 2px;
+    border-color: rgb(0, 176, 103);
+    border-radius: 3px;
+    color: rgb(0, 176, 103);
+    transition: 0.3s;
+}
+
+#back-button:hover{
+    background-color: rgb(0, 176, 103);
+    color: white;
 }
 
 p2{
@@ -49,11 +63,11 @@ p1, p2, p3{
 }
 
 .cpf{
-    width: 130px;
+    width: 200px;
 }
 
 .cep{
-    width: 100px;
+    width: 180px;
 }
 
 .complemento{
@@ -68,7 +82,7 @@ p1, p2, p3{
 }
 
 .rua{
-    width: 230px;
+    width: 260px;
 } 
 
 .senha, .confirm-senha{
@@ -80,6 +94,20 @@ p1, p2, p3{
 
 .submit{
     margin: auto;
+}
+
+#submit{
+    background-color: white;
+    border: solid 2px;
+    border-color: rgb(0, 176, 103);
+    border-radius: 3px;
+    color: rgb(0, 176, 103);
+    transition: 0.3s;
+}
+
+#submit:hover{
+    background-color: rgb(0, 176, 103);
+    color: white;
 }
 
 footer{
