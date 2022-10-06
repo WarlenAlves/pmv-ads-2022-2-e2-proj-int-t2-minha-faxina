@@ -12,6 +12,18 @@
     text-align: center;
 }
 
+.h-input{
+    font-size: 15px;
+}
+
+.email{
+    width: 230px;
+}
+
+.senha{
+    width: 230px;
+}
+
 .login-google{
     display: flex;
     margin: auto;
@@ -34,6 +46,40 @@
     background-color: rgb(0, 176, 103);
     color: white;
 }
+
+.usuario{
+    display: block;
+    margin: auto;
+    max-width: 500px;
+    align-items: center;
+}
+
+.usuario>div{
+    padding: 0% 2% 0% 2%;
+}
+
+
+.submit{
+    margin: 10px;
+    text-align: center;
+}
+
+#submit{
+    margin: auto;
+    width: 150px;
+    background-color: white;
+    border: solid 2px;
+    border-color: rgb(0, 176, 103);
+    border-radius: 3px;
+    color: rgb(0, 176, 103);
+    transition: 0.3s;
+}
+
+#submit:hover{
+    background-color: rgb(0, 176, 103);
+    color: white;
+}
+
 
 .inscreva-se{
     display:flex;

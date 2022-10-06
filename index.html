@@ -34,8 +34,36 @@
     </div>
 
     <div class="login">
-        <button> Login</button>
+        <button type="button" class="botao-inscrever" data-bs-toggle="modal" data-bs-target="#Modal">
+            Login</button>
     </div>
+    <!-- Modal -->
+    <div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="ModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="ModalLabel">Faça Login</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="usuario">
+                    <div>
+                        <label class="h-input" for="email">Email (*)</label><br>
+                        <input type="email" class="b-input email" required><br>
+                    </div>
+
+                    <div>
+                        <label class="h-input" for="senha">Senha</label><br>
+                        <input type="password" class="b-input senha" required><br>
+                    </div>
+                    <div class="submit" style="margin-top: 20px;">
+                        <input type="submit" id="submit" value="Logar">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
 
     <hr style="width: 80%; margin: auto; margin-top: 2%; margin-bottom: 2%;">
     </hr>
