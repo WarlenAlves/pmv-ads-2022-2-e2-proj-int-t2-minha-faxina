@@ -22,7 +22,9 @@ p3{
 }
 
 p1, p2, p3{
-    min-width: 500px;
+    min-width: 200px;
+    max-width: 500px;
+    margin: auto;
 
 }
 
@@ -35,6 +37,7 @@ p1, p2, p3{
     margin: auto;
     flex-flow: wrap;
     max-width: 500px;
+    align-items: center;
 }
 
 .cad>div{
@@ -42,22 +45,41 @@ p1, p2, p3{
 }
 
 .nome, .email{
-    width: 500px;
+    width: 230px;
 }
 
-.cpf, .cep, .complemento{
+.cpf{
+    width: 130px;
+}
+
+.cep{
+    width: 100px;
+}
+
+.complemento{
     width: 120px;
 }
 
-.bairro, .cidade{
-    width: 150px;
+.bairro{
+    width: 230px;
+} 
+.cidade{
+    width: 230px;
 }
 
-.rua, .senha, .confirm-senha{
-    width: 250px;
+.rua{
+    width: 230px;
+} 
+
+.senha, .confirm-senha{
+    width: 230px;
 }
 .idade, .numero{
     width: 60px;
+}
+
+.submit{
+    margin: auto;
 }
 
 footer{

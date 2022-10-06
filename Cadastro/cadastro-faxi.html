@@ -33,22 +33,22 @@
     <form class="cad" action="">
         <div>
             <label class="h-input" for="nome">Nome Completo (*)</label><br>
-            <input type="text" class="b-input nome "><br>
+            <input type="text" class="b-input nome " required><br>
         </div>
 
         <div>
             <label class="h-input" for="email">Email (*)</label><br>
-            <input type="email" class="b-input email"><br>
+            <input type="email" class="b-input email" required><br>
         </div>
 
         <div>
             <label class="h-input" for="cpf">CPF (*)</label><br>
-            <input type="text" class="b-input cpf"><br>
+            <input type="text" class="b-input cpf" id="cpf" oninput="mascaraCpf(cpf)" maxlength="11" minlength="11" required><br>
         </div>
 
         <div>
             <label class="h-input" for="idade">Idade (*)</label><br>
-            <input list="idade" class="b-input idade"><br>
+            <input list="idade" class="b-input idade" required><br>
             <datalist id="idade">
                 <option value="0"></option>
                 <option value="1"></option>
@@ -122,7 +122,7 @@
 
         <div>
             <label class="h-input" for="cep">CEP (*)</label><br>
-            <input type="number" class="b-input cep"><br>
+            <input type="text" class="b-input cep" id="cep" oninput="mascaraCep(cep)" maxlength="8" minlength="8" required ><br>
         </div>
 
         <div>
@@ -132,7 +132,7 @@
 
         <div>
             <label class="h-input" for="numero">Número</label><br>
-            <input type="number" class="b-input numero"><br>
+            <input type="text" class="b-input numero" id="numero" maxlength="5"><br>
         </div>
 
         <div>
@@ -152,12 +152,16 @@
 
         <div>
             <label class="h-input" for="senha">Senha</label><br>
-            <input type="password" class="b-input senha"><br>
+            <input type="password" class="b-input senha" required><br>
         </div>
 
         <div>
             <label class="h-input" for="confirm-senha">Confirme a Senha</label><br>
-            <input type="password" class="b-input confirm-senha"><br><br>
+            <input type="password" class="b-input confirm-senha" required><br>
+        </div>
+
+        <div class="submit" style="margin-top: 20px;">
+            <input type="submit" value="Cadastrar">
         </div>
     </form>
     <img src="/Imagens/Background.png" style="width: 100%; max-width: 1080px; display: flex; margin: auto; margin-top: 0%;">
@@ -167,5 +171,7 @@
 <footer>
     <a class="footer"> Copyright © 2022 Todos os direitos reservados</a>
 </footer>
-
+<!-- Configuração JavaScript -->
+<script src="cadastro-faxi.js"></script>
+<!-- Fim Configuração JavaScript -->
 </HTML>
