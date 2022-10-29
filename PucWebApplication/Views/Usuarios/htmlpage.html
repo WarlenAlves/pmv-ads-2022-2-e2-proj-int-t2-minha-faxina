@@ -16,14 +16,14 @@
                 <label asp-for="Email" class="control-label"></label>
                 <input asp-for="Email" class="form-control" />
                 <span asp-validation-for="Email" class="text-danger"></span>
-            </div>             
+            </div>
             <div class="form-group">
                 <label asp-for="Senha" class="control-label"></label>
                 <input asp-for="Senha" class="form-control" />
                 <span asp-validation-for="Senha" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Entrar" class="btn btn-primary" />
+                <input type="submit"  value="Entrar" class="btn btn-primary btn btn-dark btn-lg btn-block" />
             </div>
         </form>
         <h3>
@@ -33,7 +33,7 @@
 </div>
 
 <div>
-    Não possui uma conta?<a style="text-decoration: none" asp-action="create">Cadastre-se aqui</a>
+    <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {

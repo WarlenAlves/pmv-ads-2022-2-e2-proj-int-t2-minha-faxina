@@ -69,7 +69,7 @@ namespace PucWebApplication.Controllers
 
         public async Task<IActionResult> Logout() {
             await HttpContext.SignOutAsync();
-            return RedirectToAction("Login", "Usuarios");            
+            return RedirectToAction("index", "Home");            
         }
         
         public IActionResult AccessDenied() {
@@ -120,7 +120,7 @@ namespace PucWebApplication.Controllers
                 usuario.Senha = BCrypt.Net.BCrypt.HashPassword(usuario.Senha);
                 _context.Add(usuario);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(login));
             }
             return View(usuario);
         }
