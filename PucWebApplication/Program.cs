@@ -10,7 +10,7 @@ builder.Services.AddControllersWithViews();
 //alterar o server quando for subir para a núvem.
 builder.Services.AddDbContext<Contexto>
                 (options => options.UseMySql(
-                    "server=localhost;initial catalog=minha_faxina;uid=root;pwd=",
+                    "Server=tcp:minhafaxina.database.windows.net,1433;Initial Catalog=MinhaFaxina;Persist Security Info=False;User ID=administrador_minhafaxina;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
                     Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.30-mysql")));
 
 builder.Services.Configure<CookiePolicyOptions>(options =>
