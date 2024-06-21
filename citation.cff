@@ -1,0 +1,21 @@
+message: Please cite this software using these metadata.
+title: Minha Faxina
+authors:
+  - family-names: Henrique Monteiro Cal
+    given-names: Guilherme
+  - family-names: Henrique Caetano Soares 
+    given-names: Pedro
+  - family-names: Alves De Souza
+    given-names: Rafael
+  - family-names: Do Carmo Alves
+  - family-names: Warlen
+    - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Da Costa
+    given-names: Jose Wilson
+keywords:
+  Faxina
+  Serviço
+repository-code: https://github.com/WarlenAlves/pmv-ads-2022-2-e2-proj-int-t2-minha-faxina
+version: 1.0.0
+date-released: 2022-10-02
